@@ -12,4 +12,6 @@ The data scrapped containes:
 7. job requirements
 
 # Search the job You want
+- Dispaly the data within a table.
+- Geographic map for jobs distribution.
 ## Powered usig StreamLit
