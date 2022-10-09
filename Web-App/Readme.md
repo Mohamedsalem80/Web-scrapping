@@ -1,5 +1,5 @@
 # Web-scrapping
-Scrapping some jobs data from [LinkedIn](https://www.linkedin.com/jobs/search/) website
+Scrapping 100 jobs data from [LinkedIn](https://www.linkedin.com/jobs/search/) website
 
 The data scrapped containes:
 
@@ -11,10 +11,4 @@ The data scrapped containes:
 6. job describtion
 7. job requirements
 
-in three different jobs:
-
-1- Data Analysis jobs
-
-2- Machine Learning jobs
-
-3- Software Engineering jobs
+## Search the job You want
