@@ -1,3 +1,3 @@
 # Images Source Folder
-- 22.png: Job search illustrator image.
-- ms2.jpg: Job analysis illustrator image.
+- 22.jpg: Job search illustrator image.
+- ms2.png: Job analysis illustrator image.
